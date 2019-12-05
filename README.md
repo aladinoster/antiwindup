@@ -2,9 +2,13 @@
 
 # Antiwindup PID system
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aladinoster/antiwindup.git/master?filepath=antiwindup.ipynb)
+
 ## Overview
 
 This implements an antiwindup system.
+
+![](img/antiwindup.png)
 
 ### Base functions 
 
